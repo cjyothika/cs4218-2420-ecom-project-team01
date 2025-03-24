@@ -9,4 +9,3 @@ node_modules
 sonar-project.properties
 .env
 .DS_Store
-.env.example
